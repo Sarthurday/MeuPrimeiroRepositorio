@@ -24,7 +24,14 @@ public class Main {
                 mat[i][j] = scanner.nextInt();
 
             }
-
+        } for (int i = 0; i < L; i++){
+            for (int j = 0; j < C; j++){
+              System.out.println(mat[i][j]);
+            }
+            System.out.println();
         }
+
+
+
     }
 }
