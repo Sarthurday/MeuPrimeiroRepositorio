@@ -6,6 +6,7 @@ public class Main {
         // Ask user about how many lines and columns he/she want to the program do.
         // Print the matrix
         // Use integer numbers
+        // Hello world!
         Scanner scanner = new Scanner(System.in);
 
         int L, C;
